@@ -10,7 +10,7 @@ The project combines URL-based feature extraction, webpage intelligence, XGBoost
 
 ## 🚀 Live Application
 
-**Live Demo:** [Add your Streamlit Community Cloud URL here]
+**Live Demo:** https://phishguardaimlminiproject26-cdg2l7skpwsgdzxwmbwhbf.streamlit.app/
 
 **GitHub Repository:** https://github.com/akankshabhuyan-tech/PhishGuard_AIMLMiniProject26
 
