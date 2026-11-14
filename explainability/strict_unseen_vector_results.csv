@@ -1,0 +1,2 @@
+Evaluation,Test_Samples,Accuracy,Phishing_Precision,Phishing_Recall,Phishing_F1,Phishing_ROC_AUC
+Unique unseen feature vectors,26426,0.9999243169605692,0.9998380829015544,0.9998380829015544,0.9998380829015544,0.9999998560736902

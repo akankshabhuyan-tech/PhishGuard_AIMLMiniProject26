@@ -1,0 +1,16 @@
+Domain,Total_URLs,Phishing_URLs,Legitimate_URLs,Phishing_Rate
+web.app,5718,5718,0,100.0
+firebaseapp.com,5546,5546,0,100.0
+repl.co,3746,3746,0,100.0
+weeblysite.com,3079,3079,0,100.0
+ipfs.io,1552,1552,0,100.0
+workers.dev,1423,1423,0,100.0
+square.site,1187,1187,0,100.0
+dweb.link,959,959,0,100.0
+xsph.ru,928,928,0,100.0
+pantheonsite.io,891,891,0,100.0
+google.com,782,782,0,100.0
+godaddysites.com,770,770,0,100.0
+duckdns.org,642,641,1,99.84423676012462
+webwave.dev,559,559,0,100.0
+weebly.com,552,552,0,100.0

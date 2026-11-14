@@ -1,0 +1,42 @@
+{
+    "model": "XGBoost",
+    "accuracy": 0.9947597701875118,
+    "phishing_roc_auc": 0.9976662923993302,
+    "confusion_matrix": [
+        [
+            11326,
+            96
+        ],
+        [
+            70,
+            20186
+        ]
+    ],
+    "classification_report": {
+        "Phishing": {
+            "precision": 0.9938574938574939,
+            "recall": 0.9915951672211522,
+            "f1-score": 0.9927250416337979,
+            "support": 11422.0
+        },
+        "Legitimate": {
+            "precision": 0.9952667389803767,
+            "recall": 0.996544233807267,
+            "f1-score": 0.995905076718141,
+            "support": 20256.0
+        },
+        "accuracy": 0.9947597701875118,
+        "macro avg": {
+            "precision": 0.9945621164189353,
+            "recall": 0.9940697005142096,
+            "f1-score": 0.9943150591759695,
+            "support": 31678.0
+        },
+        "weighted avg": {
+            "precision": 0.9947586135370542,
+            "recall": 0.9947597701875118,
+            "f1-score": 0.9947584651664847,
+            "support": 31678.0
+        }
+    }
+}
